@@ -120,6 +120,18 @@ export const config = {
     },
     // 你可以不断按格式往下增加
     // ...
+     {
+      name: "娅娅",
+      id: "ok5R75mn1g6k-vr_85QEtu6TrRW8",
+      useTemplateId: "beEl39fC2KL_pQ7ZcdBG3lz9wAe34j1s1NKjcnevMpY",
+      province: "山东",
+      city: "菏泽",
+      horoscopeDate: '11-05',
+      horoscopeDateType: '今日',
+      openUrl: "https://www.baidu.com",
+      festivals: [],
+      customizedDateList: []
+    },
   ],
 
   /**
